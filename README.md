@@ -1,8 +1,8 @@
-# Project Node.js and Express
+# Project Complement Loader with Node.js and Express
 
 ### What is this about?
 
-- create a project involving [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/de/)
+- create a Complement Loader involving [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/de/)
 
 ### This Repo is based on:
 
@@ -16,7 +16,7 @@
 - clone this repo
 - `cd` into project
 - `npm install`
-- from terminal, run `node server.js`
+- run `node server.js`, this will listen on `localhost:3000`
 
 ### ToDo
 
